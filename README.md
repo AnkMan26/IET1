@@ -1,8 +1,8 @@
-Create a folder 
-create a random file eg. zip, txt
-Open GitBash and copy the working directory.by cd "Directory path"
-git config --global user.name "username"
-git config --global user.email "emaid"
+1)Create a folder 
+2)create a random file eg. zip, txt
+3)Open GitBash and copy the working directory.by cd "Directory path"
+4)git config --global user.name "username"
+5)git config --global user.email "emaid"
 git init
 git add . or git add --all
 git status
